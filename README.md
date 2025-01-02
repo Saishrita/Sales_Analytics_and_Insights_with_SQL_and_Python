@@ -1,4 +1,4 @@
-E-commerce Sales Analytics with SQL and Python	
+E-COMMERCE SALES ANALYTICS WITH SQL AND PYTHON	
 
 This project involves building a data analytics system using SQL and Python. It extracts valuable insights from an e-commerce dataset by performing a series of queries related to sales performance, customer behavior, and product sales. The system answers common business questions using direct SQL queries executed in Python, followed by data visualization using Pandas and Matplotlib.
 Each query is executed using Python's database connection methods (cur.execute()), and the results are processed and visualized using libraries such as Pandas and Matplotlib.
